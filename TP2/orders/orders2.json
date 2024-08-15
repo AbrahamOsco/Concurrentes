@@ -1,0 +1,67 @@
+{
+  "pantallaId": 2,
+  "pedidosTotales": [
+    {
+      "pedidoId": 1,
+      "tarjetaMonto": 2000,
+      "masaTotal": 3000,
+      "gustos": [
+        {
+          "Menta": 1000,
+          "Vainilla": 500,
+          "Chocolate": 500,
+          "Chicle": 1000
+        }
+      ]
+    },
+    {
+      "pedidoId": 2,
+      "tarjetaMonto": 5000,
+      "masaTotal": 5000,
+      "gustos": [
+        {
+          "Menta": 2000,
+          "Vainilla": 1000,
+          "Frutilla": 1000,
+          "Chicle": 2000
+        }
+      ]
+    },
+    {
+      "pedidoId": 3,
+      "tarjetaMonto": 8000,
+      "masaTotal": 1000,
+      "gustos": [
+        {
+          "Chocolate": 1000
+        }
+      ]
+    },
+    {
+      "pedidoId": 4,
+      "tarjetaMonto": 4500,
+      "masaTotal": 3000,
+      "gustos": [
+        {
+          "Menta": 1000,
+          "Vainilla": 1000,
+          "Frutilla": 500,
+          "Chicle": 500
+        }
+      ]
+    },
+    {
+      "pedidoId": 5,
+      "tarjetaMonto": 6000,
+      "masaTotal": 4000,
+      "gustos": [
+        {
+          "Menta": 2000,
+          "Vainilla": 1000,
+          "Frutilla": 500,
+          "Chicle": 500
+        }
+      ]
+    }
+  ]
+}
